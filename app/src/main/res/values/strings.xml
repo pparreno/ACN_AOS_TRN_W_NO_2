@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WorkshopActivityTwo</string>
+    <string name="companion_app">Companion App</string>
+    <string name="sign_in_with_email">Sign-In with Email</string>
+    <string name="sign_in_facebook">Sign-In via Facebook</string>
+    <string name="sign_in_google">Sign-In via Google</string>
+    <string name="bottom_text">This bottom text is temporary</string>
+    <string name="email">Email</string>
+    <string name="age">Age</string>
+    <string name="status">Status</string>
+    <string name="homecountry">Home Country</string>
+    <string name="more_details">More details</string>
+    <string name="message">Message</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+</resources>

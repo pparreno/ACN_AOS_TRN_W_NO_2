@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="transparent_button" parent="Widget.Material3.Button.ElevatedButton.Icon">
+        <item name="backgroundTint">@color/transparent_white_50</item>
+        <item name="strokeColor">@color/transparent_white_90</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="strokeWidth">2dp</item>
+    </style>
+
+    <style name="transparent_button_gray" parent="Widget.Material3.Button.ElevatedButton.Icon">
+        <item name="backgroundTint">@color/transparent_white_50</item>
+        <item name="strokeColor">@color/transparent_dark_gray_90</item>
+        <item name="android:textColor">@android:color/darker_gray</item>
+        <item name="strokeWidth">2dp</item>
+    </style>
+
+    <style name="TransparentText" parent="@android:style/TextAppearance">
+        <item name="android:textColor">#00000000</item>
+    </style>
+
+    <style name="ProfileToolBarStyle" parent="@style/ThemeOverlay.AppCompat.DayNight">
+        <item name="titleTextColor">@color/white</item>
+    </style>
+</resources>
